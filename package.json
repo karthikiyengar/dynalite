@@ -33,9 +33,6 @@
     "once": "^1.4.0",
     "subleveldown": "^4.0.0"
   },
-  "optionalDependencies": {
-    "leveldown": "^4.0.1"
-  },
   "devDependencies": {
     "aws4": "^1.8.0",
     "mocha": "^5.2.0",
